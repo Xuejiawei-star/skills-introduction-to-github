@@ -1,4 +1,4 @@
-<header>
+My name is Gareth, a new learner of coding, hope i can follow the new trend of AI. Thanks!<header>
 
 <!--
   <<< Author notes: Course header >>>
